@@ -68,3 +68,6 @@ Building practical web applications with Java, Spring Boot, React & PostgreSQL.
 ### 🚀 Keep Learning • Keep Building
 
 </div>
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
