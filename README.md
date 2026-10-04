@@ -24,7 +24,6 @@ Building practical web applications with Java, Spring Boot, React & PostgreSQL.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge\&logo=Instagram\&logoColor=white)](https://instagram.com/abhinav03ka)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/abhinav--ka)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge\&logo=WhatsApp\&logoColor=white)](https://wa.me/918137872464)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:abhinav2003ka@gmail.com)
 
 ## 💻 Tech Stack
