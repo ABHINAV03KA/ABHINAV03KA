@@ -63,11 +63,16 @@ Building practical web applications with Java, Spring Boot, React & PostgreSQL.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ABHINAV03KA&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=ABHINAV03KA&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views" />
+
+<br><br>
 
 ### 🚀 Keep Learning • Keep Building
 
+<br>
+
 </div>
+
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </p>
